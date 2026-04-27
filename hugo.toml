@@ -6,3 +6,30 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+sectionPagesMenu = 'main'
+
+[[menus.main]]
+name = '首页'
+url = '/'
+weight = 1
+
+[[menus.main]]
+name = '文章'
+url = '/posts/'
+weight = 10
+
+[[menus.main]]
+name = '分类'
+url = '/categories/'
+weight = 20
+
+[[menus.main]]
+name = '标签'
+url = '/tags/'
+weight = 30
+
+[[menus.main]]
+name = '关于'
+url = '/about/'
+weight = 40
