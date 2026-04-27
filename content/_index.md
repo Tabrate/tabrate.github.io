@@ -3,7 +3,7 @@ title = 'TaBrate Technical Notes'
 draft = false
 +++
 
-这里记录等离子体物理、NIMROD、runaway electron、OpenACC、Fortran/C++ 和 LaTeX 相关技术笔记。
+这里记录等离子体物理、runaway electron、OpenACC、Fortran/C++ 和 LaTeX 相关技术笔记。
 
 ## 主要方向
 
